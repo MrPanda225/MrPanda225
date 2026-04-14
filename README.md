@@ -53,10 +53,3 @@ Open to **CDI** and **freelance contracts**.
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [Stage Manager](https://github.com/MrPanda225/) | Automated pipeline for internship data collection and processing — in production at my school | Python, PostgreSQL, Django |
-
----
-
-## GitHub Stats
-
-![Stats](https://github-readme-stats.shion.dev/api?username=MrPanda225&theme=dark&hide_border=true&show_icons=true)
-![Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=MrPanda225&theme=dark&hide_border=true&layout=compact)
