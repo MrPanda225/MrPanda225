@@ -46,10 +46,3 @@ Open to **CDI** and **freelance contracts**.
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![OVH](https://img.shields.io/badge/OVH-123F6D?style=flat&logo=ovh&logoColor=white)
 
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [Stage Manager](https://github.com/MrPanda225/) | Automated pipeline for internship data collection and processing — in production at my school | Python, PostgreSQL, Django |
